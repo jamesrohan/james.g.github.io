@@ -41,5 +41,6 @@ My interests span:
 - Economics
 - Statistics
 
-Member: ACM
+Member: ![ACM](../assets/img/acm-org-brandmark.jpg)
+
 Let’s connect: LinkedIn · Instagram · Email.
