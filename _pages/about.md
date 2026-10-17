@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Never trust atoms, they make up everything.
+subtitle: Never trust atoms, they make up everything.
 
 profile:
   align: right
