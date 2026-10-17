@@ -9,14 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>...Like all the jolly good fellows, I drink my whiskey clear.</p> 
-    <p>I'm a Ramblin' Wreck from Georgia Tech and a hell of an engineer...</p>
-    <p>...Oh, I wish I had a barrel of rum and sugar three thousand pounds,</p>
-    <p>A college bell to put it in and a clapper to stir it round.</p>
-    <p>I'd drink to all the good fellows who come from far and near.</p>
-    <p>I'm a ramblin', gamblin', hell of an engineer!</p>
-    <p> - 𝐆𝐓 fight song </p>
-    <p>   Sting 'Em!</p>
+    <p>... Like all the jolly good fellows, I drink my whiskey clear.</p> 
+    <p>... I'm a Ramblin' Wreck from Georgia Tech and a hell of an engineer.</p>
+    <p>... I'd drink to all the good fellows who come from far and near.</p>
+    <dl> 
+        <dt>𝐆𝐓 fight song </dt> 
+        <dt>⚡ Sting 'Em!</dt>
+    </dl>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -42,4 +41,5 @@ My interests span:
 - Economics
 - Statistics
 
+Member: ACM
 Let’s connect: LinkedIn · Instagram · Email.
