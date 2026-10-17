@@ -9,7 +9,7 @@ last_name: Gangavarapu
 contact_note: >
   Let’s connect: LinkedIn · Instagram · Email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Computing systems, problems at scale, and ideas beyond code.
+  Computing systems, problems at scale, and ideas beyond code. Also, never trust atoms, they make up everything.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -112,7 +112,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
-og_image: ./assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
+og_image: assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
