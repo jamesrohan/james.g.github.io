@@ -41,6 +41,6 @@ My interests span:
 - Economics
 - Statistics
 
-Member: ![ACM](../assets/img/acm-org-brandmark.jpg)
+Member: [Association for Computing Machinery](https://www.acm.org/about-acm/about-the-acm-organization)
 
 Let’s connect: LinkedIn · Instagram · Email.
