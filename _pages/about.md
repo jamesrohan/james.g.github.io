@@ -15,8 +15,8 @@ profile:
     <p>A college bell to put it in and a clapper to stir it round.</p>
     <p>I'd drink to all the good fellows who come from far and near.</p>
     <p>I'm a ramblin', gamblin', hell of an engineer!</p>
-    <p> -𝐆𝐓 fight song</p>
-    <p>  Sting 'Em!</p>
+    <p> - 𝐆𝐓 fight song </p>
+    <p>   Sting 'Em!</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
