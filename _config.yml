@@ -190,7 +190,7 @@ external_sources:
 # -----------------------------------------------------------------------------
 
 newsletter:
-  enabled: false
+  enabled: true
   endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/YOUR-ENDPOINT)
   # https://loops.so/docs/forms/custom-form
 
@@ -200,15 +200,15 @@ newsletter:
 
 collections:
   books:
-    output: false
+    output: true
   news:
     defaults:
       layout: post
-    output: false
+    output: true
   projects:
     output: true
   teachings:
-    output: false
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -251,6 +251,12 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  # Exclude temporarily 
+  - _news/
+  - _posts/
+  - _projects/
+  - _teachings/
+  - _data/repositories.yml
 keep_files:
   - CNAME
   - .nojekyll
