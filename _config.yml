@@ -251,7 +251,7 @@ exclude:
   - gems/
   - migrations/
   - vendor
-  # Exclude temporarily 
+  # Exclude temporarily
   - _news/
   - _posts/
   - _projects/
