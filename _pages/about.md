@@ -9,7 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> "Never trust atoms, they make up everything" - Jamestein </p>
+    <p> "Never trust atoms, they make up everything"</p>
+    <dl> 
+        <dt>- Jamestein</dt> 
+    </dl>
+    <br>
+    <br>
     <p>... Like all the jolly good fellows, I drink my whiskey clear.</p> 
     <p>... I'd drink to all the good fellows who come from far and near.</p>
     <dl> 
