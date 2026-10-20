@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Never trust atoms, they make up everything 1.
+subtitle:
 
 profile:
   align: right
@@ -45,6 +45,8 @@ My interests span:
   - [Algorithms and Data structures](https://github.com/jg-incompleteness/Algorithms-and-Data-Structures)
 - Economics
 - Statistics
+
+**[Resume 🔗](https://drive.google.com/file/d/1BggI01NqDrXzeUT8yPiaDKS0xhuiT0Ep/view?usp=drive_link)**
 
 Member: [Association for Computing Machinery](https://www.acm.org/about-acm/about-the-acm-organization)
 
