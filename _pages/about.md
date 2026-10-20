@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Never trust atoms, they make up everything.
+subtitle: Never trust atoms, they make up everything 1.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p> "Never trust atoms, they make up everything" - Jamestein </p>
     <p>... Like all the jolly good fellows, I drink my whiskey clear.</p> 
-    <p>... I'm a Ramblin' Wreck from Georgia Tech and a hell of an engineer.</p>
     <p>... I'd drink to all the good fellows who come from far and near.</p>
     <dl> 
         <dt>𝐆𝐓 fight song </dt> 
