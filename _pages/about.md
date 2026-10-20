@@ -43,4 +43,4 @@ My interests span:
 
 Member: [Association for Computing Machinery](https://www.acm.org/about-acm/about-the-acm-organization)
 
-Let’s connect: LinkedIn · Instagram · Email.
+Let’s connect: [LinkedIn](https://www.linkedin.com/in/james-gangavarapu-08149590/) · [Instagram](https://www.instagram.com/jamesgang.jg/) · [Email](mailto:james.gangavarapu@gatech.edu).
