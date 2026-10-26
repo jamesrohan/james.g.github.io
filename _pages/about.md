@@ -46,7 +46,7 @@ My interests span:
 - Economics
 - Statistics
 
-**[Resume 🔗](https://drive.google.com/file/d/1BggI01NqDrXzeUT8yPiaDKS0xhuiT0Ep/view?usp=drive_link)**
+**[Resume 🔗](https://drive.google.com/file/d/19wJzIQ0x-fS1Q-sUH7e_HUVKPhvGQ7wL/view?usp=sharing)**
 
 Member: [Association for Computing Machinery](https://www.acm.org/about-acm/about-the-acm-organization)
 
